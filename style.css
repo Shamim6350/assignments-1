@@ -43,7 +43,7 @@ h3 span{color: orange;}
 }
 .header-image img{
   width: 60%;
-  margin-left: 40%;
+  margin-left: 13%;
 }
 .middle-section{
 display:flex;
@@ -63,10 +63,10 @@ text-align: center;
 .down-section{display: flex;}
 
 .header-image2 img{width: 70%;
-margin-left: 30px;
+margin-left: 60px;
 }
 .header2{width: 100%;
-    margin-right: 150px;
+    margin-right: 180px;
     text-align: justify;
 
 }
