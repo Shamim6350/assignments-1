@@ -3,11 +3,14 @@ body{
     margin-left: 100px;
     margin-right: 100px;
     font-family: 'Open Sans', sans-serif;
+    
+
 }
+h1{font-size: 35px;}
 h1 span{color:orange}
-h3{text-align: center;
-font-size: 25px;}
-h3 span{color: orange;}
+h2{text-align: center;
+font-size: 30px;}
+h2 span{color: orange;}
 .up-section{
     display: flex;
     text-align: justify;
@@ -39,6 +42,7 @@ h3 span{color: orange;}
     padding: 10px 25px;
     border-radius: 7px;
     color: white;
+   
 
 }
 .header-image img{
