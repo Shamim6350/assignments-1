@@ -4,7 +4,6 @@ body{
     margin-right: 100px;
     font-family: 'Open Sans', sans-serif;
     
-
 }
 h1{font-size: 35px;}
 h1 span{color:orange}
@@ -23,7 +22,6 @@ h2 span{color: orange;}
      
     }
     
-
 .header{
     width: 90%;
     padding: 20px;
@@ -44,8 +42,6 @@ h2 span{color: orange;}
     padding: 10px 25px;
     border-radius: 7px;
     color: white;
-   
-
 }
 .header-image img{
   width: 60%;
@@ -56,12 +52,11 @@ display:flex;
 margin: 20px;
 padding: 10px;
 text-align: center;
-
+text-align: justify;
 }
 .image1{width:20%;background-color:#edf5f6; margin: 15px;padding: 50px;border-radius: 15px;}
 .image2{width:20%;background-color: #FFEEEE;margin: 15px;padding: 50px;border-radius: 15px;}
 .image3{width: 20%;background-color: #FFEEEE;margin: 15px;padding: 50px;border-radius: 15px;}
-
 
 .image1 img{width: 50%;margin-left: 40px;}
 .image2 img{width: 50%;}
@@ -85,10 +80,12 @@ margin-left: 60px;
 }
 
 section{display:flex;margin-bottom: 10px;}
-.corona{box-shadow:10px  10px 10px grey;margin: 10px;background-color:#EDF5F6;padding: 10px;text-align: center;}
-.corona2{box-shadow:10px  10px 10px grey;margin: 10px;background-color:#FFEEEE;padding: 10px;text-align: center;}
-.corona3{box-shadow:10px  10px 10px grey;margin: 10px;background-color:#FFF4D6;padding: 10px;text-align: center;}
 
+.corona{box-shadow:10px  10px 10px grey;margin: 10px;background-color:#EDF5F6;padding: 10px;text-align: center;border-radius: 15px;}
+
+.corona2{box-shadow:10px  10px 10px grey;margin: 10px;background-color:#FFEEEE;padding: 10px;text-align: center;border-radius: 15px;}
+
+.corona3{box-shadow:10px  10px 10px grey;margin: 10px;background-color:#FFF4D6;padding: 10px;text-align: center;border-radius: 15px;}
 
 .footer{background-color: black;padding: 40px;color: white;text-align: center;}
 
